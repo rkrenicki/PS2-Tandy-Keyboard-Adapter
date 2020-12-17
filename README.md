@@ -14,11 +14,13 @@ This adapter simply connects in-line between your PS2 keyboard and the Tandy 100
 ## Bill of Materials
 |Quan |Ref(s)        |Mouser Part Number  |Description                                                     
 |-----|--------------|--------------------|----------------------------------------------------------------
-| 1   |RAM-U10       |913-AS6C4008-55PCN  |AS6C4008-55PCN 4mbit (512k x 8) Static RAM
-| 1   |RAM-U12       |595-SN74LS00N       |74LS00 Quad NAND Gate
-| 1   |RAM-U13       |595-SN74LS32N       |74LS32 Quad OR Gate
-| 1   |ROM-U5        |556-AT28C64B15PU    |28C64 64k x 8 EEPROM
-| 1   |ROM-U5 Socket |517-4828-6000-CP    |28-pin Wide DIP Socket
+| 1   |U1            |913-AS6C4008-55PCN  |AT Tiny 85 Micrcontroller
+| 2   |R1, R2        |595-SN74LS00N       |4.7k ohm 1/8w Resistor
+| 1   |R3            |595-SN74LS32N       |150 ohm 1/8w Resistor
+| 1   |F1            |556-AT28C64B15PU    |1A Polyfuse
+| 1   |C1            |517-4828-6000-CP    |100pF Multi Layer Ceramic Capacitor
+| 1   |C2            |517-4828-6000-CP    |0.1uF Multi Layer Ceramic Capacitor
+| 1   |J1            |517-4828-6000-CP    |MiniDIN 6 Socket
 
 
 
