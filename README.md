@@ -14,21 +14,19 @@ This adapter simply connects in-line between your PS2 keyboard and the Tandy 100
 ## Bill of Materials
 |Quan |Ref(s)        |Mouser Part Number  |Description                                                     
 |-----|--------------|--------------------|----------------------------------------------------------------
-| 1   |U1            |                    |ATTiny 85 Micrcontroller
-| 2   |R1, R2        |                    |4.7k ohm 1/8w Resistor
-| 1   |R3            |                    |150 ohm 1/8w Resistor
-| 1   |F1            |                    |1A Polyfuse
-| 1   |C1            |                    |100pF Multi Layer Ceramic Capacitor
-| 1   |C2            |                    |0.1uF Multi Layer Ceramic Capacitor
-| 1   |J1            |                    |MiniDIN 6 Socket
-
+| 1   |U1            |556-ATTINY85-20PU   |ATTiny85-20PU Micrcontroller
+| 2   |R1, R2        |299-4.7K-RC         |4.7k ohm 1/8w Resistor
+| 1   |R3            |299-150-RC          |150 ohm 1/8w Resistor
+| 1   |F1            |576-0251001.MRT1L   |1A Polyfuse
+| 1   |C1            |594-A101J15C0GF5TAA |100pF Multi Layer Ceramic Capacitor
+| 1   |C2            |594-A104M15X7RF5TAA |0.1uF Multi Layer Ceramic Capacitor
+| 1   |J1            |806-KMDGX-6S-BS     |MiniDIN 6 Socket
 
 
 
 ## BIOS
 
 The ATTiny software is written by Scott Baker.
-
 
 
 
