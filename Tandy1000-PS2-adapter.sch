@@ -26,7 +26,7 @@ F 3 "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf" H 2950 3500
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Microchip_ATtiny:ATtiny85-20SU U1
+L Tandy1000-PS2-adapter-rescue:ATtiny85-20SU-MCU_Microchip_ATtiny U1
 U 1 1 5ECCA5F4
 P 5050 3550
 F 0 "U1" H 4520 3596 50  0000 R CNN
@@ -271,7 +271,7 @@ U 1 1 5ED03127
 P 6150 4950
 F 0 "H1" V 6104 5100 50  0000 L CNN
 F 1 "MountingHole_Pad" V 6195 5100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 6150 4950 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 6150 4950 50  0001 C CNN
 F 3 "~" H 6150 4950 50  0001 C CNN
 	1    6150 4950
 	0    1    1    0   
@@ -282,7 +282,7 @@ U 1 1 5ED06468
 P 6150 5200
 F 0 "H2" V 6104 5350 50  0000 L CNN
 F 1 "MountingHole_Pad" V 6195 5350 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 6150 5200 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 6150 5200 50  0001 C CNN
 F 3 "~" H 6150 5200 50  0001 C CNN
 	1    6150 5200
 	0    1    1    0   
